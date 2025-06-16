@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+frontend/node_modules/
+
+# Build
+frontend/build/
+
+# Excel & Audio
+answer_sentences.xlsx
+answer_sentences/
+
+# Env
+.env 
